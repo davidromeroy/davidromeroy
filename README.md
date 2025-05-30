@@ -1,122 +1,101 @@
 <!--## Hi there 👋, this is my readme to presentation myself -->
-
-<!--
-**davidromeroy/davidromeroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+<!-- Introduction -->
 <h1 align="center">Hi , I'm David Romero Yánez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Mechatronics+Engineer;Developer+Trainee;Robotics+and+ROS+Enthusiast;Computer+Vision;Always+learning+new+things"></a>
-</p><br>
-
-
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- TODO: Cambiar Gifs, poner imagenes en una carpeta y cargarlas desde ahí,----------------------------------------------------------------------- -->
 <!-- About me -->
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
-- :robot: I am a Mechatronics Engineer specialized in Robotics, with a focus on Computer Vision, Artificial Intelligence, and ROS2-based robotic systems.
-- :rocket: Currently working as a Development Engineer in training, diving into ``Web & Mobile Development`` and ``Dynamics AX 2009``.  
-- :technologist: I believe in using technology as a creative tool for transformation and impact.
-- :brain: Focused on advancing in **AI, robotics research**, and impactful software development.  
-- :mailbox: Open to new **research collaborations** and **career opportunities** in **Robotics & AI**.
-
+- :robot: Mechatronics Engineer specialized in Robotics, **Computer Vision** and **AI**, with hands-on experience using ROS2.
+- :rocket: Currently training as a Development Engineer, exploring ``Web & Mobile Development`` and ``ERP(Dynamics AX 2009)``.  
+- :mortar_board: I'm currently exploring Master's programs in **Robotics & AI** in Europe. 
+- :mailbox: Open to research assistantships, collaborations and scholarship opportunities!
 <!-- - :link: You can check out MY RESUME and MY PROJECTS (← actualiza con tus enlaces si los tienes). -->
 
 
-
+<!-- ----------------------------------------------------------------------- -->
 <!-- Intereses -->
-<details><summary><h3>🧠 Intereses técnicos</h3></summary>
+<h2>🔬 Technical Interests</h2>
 
-- Visión por computadora aplicada a robótica
-- ROS2 y simulación de comportamientos robóticos
-- Control inteligente en tiempo real con dispositivos como ESP32 y Raspberry Pi Zero 2W
-- Integración entre percepción visual y control robótico
-- Investigación en robótica con fines sociales (como prótesis biónicas, entre otros)
-</details>
-
+- :robot: Robotic behavior simulation with **ROS2**
+- :eye: Visual perception & control integration
+- :gear: Real-time control with **ESP32** and **Raspberry Pi Zero 2W**
+- **Computer vision** applied to robotic systems
+- :brain: Robotics research for **assistive technologies** (e.g. bionic prosthetics)
 
 
+<!-- ----------------------------------------------------------------------- -->
 <!-- Skills -->
 ## 🛠️ My Skills
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
-
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> 👨‍💻 Core Technical Skills
 <p align="center">
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"></a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white"></a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white"></a>
+	
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+<!-- Robotic and CV -->
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> 🤖 Robotics & Computer Vision
+<p align="center">
+	
+</p>
+
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-2D3A4E?style=for-the-badge&logo=Open%20Robotics&logoColor=white)
+![MoveIt](https://img.shields.io/badge/MoveIt-00BFFF?style=for-the-badge&logo=Open%20Robotics&logoColor=white)
+![RViz](https://img.shields.io/badge/RViz-CC0000?style=for-the-badge&logo=Open%20Robotics&logoColor=white)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=YOLO&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+
+<!-- ML & Data Science -->
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> 🧠 Machine Learning & Data Science
 <p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?style=plastic&logo=typescript&logoColor=black"></a>
+
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
- 
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+
+<!-- Dev Tools & Platforms -->
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> 🛠️ Dev Tools & Platforms
 <p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Robotics & Computer Vision
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
-  &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-</p>
-
-
-<!-- Proyectos -->
-<details><summary><h3>🚧 Proyectos destacados</h3></summary>
   
+</p>
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+
+
+<!-- TODO: Tratar de poner una tabla y que mande a repos con más detalle  ----------------------------------------------------------------------- -->
+<!-- Proyectos -->
+<details><summary><h2>🚧 Proyectos destacados</h2></summary>
+
 - :robot: **Optimización de robot para robótica de enjambre con seguimiento de trayectorias**  
   Opitimización del diseño mecánico y electrónico e implementacion de un sistema de seguimiento de trayectoria capaz de detectar múltiples robots con marcadores ArUco mediante una camara Intel Realsense de profundidad.
 - :mechanical_arm: **Prótesis biónica infantil**  
@@ -126,69 +105,92 @@ Here are some ideas to get you started:
 </details>
 
 
+<!-- ----------------------------------------------------------------------- -->
 <!-- Learning -->
-<details><summary><h3>📈 Actualmente aprendiendo</h3></summary>
-  
+<h2>:rocket: What I'm Working On</h2>
+
+- :camera: Computer vision portfolio with OpenCV + Python
+- :robot: Building robotic simulation projects with ROS2 
+- :whale2: Docker for environment management
+<!--
 - Computer Vision con Python y OpenCV
 - Machine Learning aplicado a percepción robótica
 - Docker para gestión de entornos de desarrollo y despliegue
-- Proyectos con bajo consumo de recursos computacionales
-</details>
+- Proyectos con bajo consumo de recursos computacionales -->
 
-
+<!-- ----------------------------------------------------------------------- -->
 <!-- Objetivos -->
-<details><summary><h3>🎯 Objetivos a futuro</h3></summary>
-  
-- Continuar en el área de investigación y simulación robótica
-- Aplicar a becas de maestría en Europa (con interés especial en robótica e IA)
-- Desarrollar un proyecto propio (startup) con impacto tecnológico y social
-</details>
+<h2>🎯 Future Goals</h2>
+
+- Deepen research in robotic simulation (Q3 2025)
+- Apply to master's scholarships in Europe for Robotics & AI (Q4 2025–2026)  
+- Launch a tech-driven startup with social impact (2026)
+<!-- 
+Publicar un paper en un congreso de robótica (IROS, ICRA, etc.)
+Contribuir activamente a proyectos open-source con ROS2 o IA
+Obtener certificaciones técnicas (ej. ROS2, NVIDIA Jetson AI, Docker)
+Dominar herramientas de simulación como Gazebo, Webots o Isaac Sim
+Aprender Rust o C++ moderno para robótica en tiempo real
+-->
 
 
+<!-- ----------------------------------------------------------------------- -->
 <!-- QUOTE -->
-<details><summary><h3>💡 Quotes</h3></summary>
-
+<h2>💡 Quotes</h2>
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming"></p>
-</details>
 
 
-
-
-
+<!-- ----------------------------------------------------------------------- -->
 <!-- Connect -->
-<br>
-<div align="center">
-</br> <h3>Connect with me</h3><br>
-
-<a href="https://www.linkedin.com/in/daroyane" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/davidromeroy" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 <h3>Connect with me</h3>
 <p>
-<a href="https://linkedin.com/in/daroyane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daroyane" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daroyane" target="blank">
+	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daroyane" height="30" width="40" /></a>
 <!-- <a href="https://kaggle.com/anirudhrai693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anirudhrai693" height="30" width="40" /></a> -->
-<a href="https://instagram.com/davidromeroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
+<a href="mailto:daroyane@espol.edu.ec" target="outlook">
+	<img align="center" src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-07-512.png" alt="Email" width="30" height="30"></a>
+<a href="https://instagram.com/davidromeroy" target="blank">
+	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davidromeroy" height="30" width="40" /></a>
 </p>
 </div>
 
+<!--
+<div align="center">
+<h3>Connect with me</h3><br>
+<a href="https://www.linkedin.com/in/daroyane" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/davidromeroy" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+</div>  -->
 
 
-
-
+<!-- ----------------------------------------------------------------------- -->
 <!-- ESTADISTIC
 <h3>My GitHub Stats</h3>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidromeroy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="davidromeroy's Github Stats">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidromeroy&show_icons=true&theme=dark&locale=en&layout=compact" alt="davidromeroy" /></p>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=davidromeroy&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+-->
 
+<!-- ----------------------------------------------------------------------- -->
+<!-- Education
+![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
+![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 -->
 
 
 
+
+
+
+<!-- ----------------------------------------------------------------------- -->
 <!-- OLD 
 # 👋 ¡Hola! Soy David
 

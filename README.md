@@ -8,9 +8,10 @@
 <!-- TODO: Cambiar Gifs, poner imagenes en una carpeta y cargarlas desde ahí,----------------------------------------------------------------------- -->
 <!-- About me -->
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/davidromeroy/davidromeroy/blob/main/images/about_me.gif?raw=true" align = "center" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
+
 - :robot: Mechatronics Engineer specialized in Robotics, **Computer Vision** and **AI**, with hands-on experience using ROS2.
 - :rocket: Currently training as a Development Engineer, exploring ``Web & Mobile Development`` and ``ERP(Dynamics AX 2009)``.  
 - :mortar_board: I'm currently exploring Master's programs in **Robotics & AI** in Europe. 
@@ -20,7 +21,7 @@
 
 <!-- ----------------------------------------------------------------------- -->
 <!-- Intereses -->
-<h2>🔬 Technical Interests</h2>
+## <picture><img src = "https://github.com/davidromeroy/davidromeroy/blob/main/images/technical-interest.gif?raw=true" align = "center" width = 50px></picture> Technical Interests
 
 - :robot: Robotic behavior simulation with **ROS2**
 - :eye: Visual perception & control integration
@@ -31,8 +32,9 @@
 
 <!-- ----------------------------------------------------------------------- -->
 <!-- Skills -->
-## 🛠️ My Skills
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> 👨‍💻 Core Technical Skills
+## <picture><img src = "https://github.com/davidromeroy/davidromeroy/blob/main/images/skill.gif?raw=true" align = "center" width = 60px></picture> My Skills
+
+### <picture><img src = "https://github.com/davidromeroy/davidromeroy/blob/main/images/Programming_Languages.gif?raw=true" align = "center" width = 50px></picture> Core Technical Skills
 <p align="center">
 	
 </p>
@@ -48,7 +50,7 @@
 
 
 <!-- Robotic and CV -->
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> 🤖 Robotics & Computer Vision
+### <picture><img src = "https://github.com/davidromeroy/davidromeroy/blob/main/images/Robots-arm.gif?raw=true" align = "center" width = 50px></picture>  Robotics & Computer Vision
 <p align="center">
 	
 </p>
@@ -65,7 +67,7 @@
 
 
 <!-- ML & Data Science -->
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> 🧠 Machine Learning & Data Science
+### <picture><img src = "https://github.com/davidromeroy/davidromeroy/blob/main/images/IA.gif?raw=true" align = "center" width = 50px></picture> Machine Learning & Data Science
 <p align="center"> 
 
 </p>
@@ -80,7 +82,7 @@
 
 
 <!-- Dev Tools & Platforms -->
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> 🛠️ Dev Tools & Platforms
+### <picture><img src = "https://github.com/davidromeroy/davidromeroy/blob/main/images/dev-tools.gif?raw=true" align = "center" width = 50px></picture> Dev Tools & Platforms
 <p align="center">
   
 </p>
@@ -94,7 +96,8 @@
 
 <!-- TODO: Tratar de poner una tabla y que mande a repos con más detalle  ----------------------------------------------------------------------- -->
 <!-- Proyectos -->
-<details><summary><h2>🚧 Proyectos destacados</h2></summary>
+<details><summary><h2><picture>
+	<img src = "https://github.com/davidromeroy/davidromeroy/blob/main/images/proyect.gif?raw=true" align = "center" width = 50px></picture> Proyectos destacados</h2></summary>
 
 - :robot: **Optimización de robot para robótica de enjambre con seguimiento de trayectorias**  
   Opitimización del diseño mecánico y electrónico e implementacion de un sistema de seguimiento de trayectoria capaz de detectar múltiples robots con marcadores ArUco mediante una camara Intel Realsense de profundidad.
@@ -107,7 +110,7 @@
 
 <!-- ----------------------------------------------------------------------- -->
 <!-- Learning -->
-<h2>:rocket: What I'm Working On</h2>
+<h2><picture><img src = "https://github.com/davidromeroy/davidromeroy/blob/main/images/working-on.gif?raw=true" align = "center" width = 50px></picture> What I'm Working On</h2>
 
 - :camera: Computer vision portfolio with OpenCV + Python
 - :robot: Building robotic simulation projects with ROS2 
@@ -120,7 +123,7 @@
 
 <!-- ----------------------------------------------------------------------- -->
 <!-- Objetivos -->
-<h2>🎯 Future Goals</h2>
+<h2><picture><img src = "https://github.com/davidromeroy/davidromeroy/blob/main/images/goals.gif?raw=true" align = "center" width = 50px></picture> Future Goals</h2>
 
 - Deepen research in robotic simulation (Q3 2025)
 - Apply to master's scholarships in Europe for Robotics & AI (Q4 2025–2026)  
@@ -136,7 +139,7 @@ Aprender Rust o C++ moderno para robótica en tiempo real
 
 <!-- ----------------------------------------------------------------------- -->
 <!-- QUOTE -->
-<h2>💡 Quotes</h2>
+<h2><picture><img src = "https://github.com/davidromeroy/davidromeroy/blob/main/images/Idea.gif?raw=true" align = "center" width = 50px></picture> Quotes</h2>
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming"></p>
 
